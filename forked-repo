@@ -1,0 +1,8 @@
+Curl Command:
+curl https://api.github.com/repos/sham-alhafi/mcino-Introduction-to-Git-and-GitHub
+
+Terminal Output:
+"fork": true
+"parent": {
+  "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+}
